@@ -16,6 +16,8 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
+    background-image: url(images/city.jpg);
+    background-size: cover;
 }
 .nav_control {
     background-color: blueviolet;
