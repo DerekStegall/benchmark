@@ -18,7 +18,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    background-image: url(images/bubble_pic.jpeg);
+    background-image: url(images/wood\ table\ and\ lights.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -73,5 +73,8 @@ body {
     margin: 10px;
     color: white;
 
+ }
+ a {
+     color: inherit;
  }
  
