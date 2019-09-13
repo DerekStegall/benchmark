@@ -4,7 +4,7 @@
     background-color: rgba(0,0,0, .3);
     min-height: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 #hook {
     background-color: rgba(0,0,0, .5);
